@@ -1,0 +1,12 @@
+fastapi[standard]
+fastapi_users[beanie]
+uvicorn
+pandas
+pymongo
+requests
+pytz
+python-dotenv
+dnspython
+cryptography
+apscheduler
+dhooks
